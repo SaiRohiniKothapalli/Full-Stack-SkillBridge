@@ -1,4 +1,4 @@
-# SkillBridge - Batch 3
+# Full-Stack-SkillBridge 
 
 SkillBridge connects volunteers with NGOs through a full-stack web platform.
 
